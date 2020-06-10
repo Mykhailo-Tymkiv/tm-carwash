@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Quicksand&display=swap');
+:root {
+    font-family: 'Quicksand', sans-serif;
+    --main-color: black;
+}
+body {
+    max-width: 980px;
+    width: 100%;
+    margin: auto;
+}
+p h1 h2 {
+    margin: o;
+    padding: o;
+}
+.main-text {
+    padding-top: 80px;
+    text-align: center;
+}
+.main-text-item {
+    font-size: 3rem;
+    color: cornflowerblue;
+    margin-top: 20px;
+}
+.services-container {
+    display:flex;
+    justify-content: center;
+    text-align: center;   
+}
+.car-wash-box {
+    background-color: gray;
+    padding: 10px;
+}
+.deluxe-wash-box {
+    background-color: gainsboro;
+    padding: 15px;
+}
+.wash-logo {
+    font-family: 'Bangers', cursive;
+    color: cornflowerblue;
+}
+.price-text {
+    font-size: 30px;
+}
