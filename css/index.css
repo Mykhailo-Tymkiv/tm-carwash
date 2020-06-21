@@ -19,23 +19,23 @@ header {
 }
 
 .social-link-footer {
-       display: inline-flex;
-       padding-top: 20px;
-       padding-right: 5px;
-    }
-    .social-link-header {
-        display: none;
-    }
+    display: inline-flex;
+    padding-top: 20px;
+    padding-right: 5px;
+}
+.social-link-header {
+    display: none;
+}
 .logo {
     font-family: 'Bangers', cursive;
     font-size: 30px;
     margin: 0;
     color: cornflowerblue;
     text-align: center;
-    }
+}
 .call-box {
     display: none;
-    }
+}
 .banner {
     background-image: url(../img/carwash.jpg);
     min-height: 700px;
@@ -73,12 +73,12 @@ header {
         display: flex;
     }
     .call-box {
-    display: inline;
-    background-color: cornflowerblue;
-    padding: 25px;
-    margin-top: 10px;
-    color: white;
-    text-align: center;
+        display: inline;
+        background-color: cornflowerblue;
+        padding: 25px;
+        margin-top: 10px;
+        color: white;
+        text-align: center;
     }
     .call-box-item {
         color: white;
@@ -97,3 +97,4 @@ header {
     .copyright-text {
         padding-left: 70px;
     }
+}

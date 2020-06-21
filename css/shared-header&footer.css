@@ -54,12 +54,12 @@ header {
         display: flex;
     }
     .call-box {
-    display: inline;
-    background-color: cornflowerblue;
-    padding: 25px;
-    margin-top: 10px;
-    color: white;
-    text-align: center;
+        display: inline;
+        background-color: cornflowerblue;
+        padding: 25px;
+        margin-top: 10px;
+        color: white;
+        text-align: center;
     }
     .call-box-item {
         color: white;
@@ -78,3 +78,4 @@ header {
     .copyright-text {
         padding-left: 70px;
     }
+}
